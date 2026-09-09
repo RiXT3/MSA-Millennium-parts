@@ -9,4 +9,4 @@ Currently repository contains:
 3. Gasket 
 5. Retaining Ring 
 11. Spider Gasket 
-12. 1 Air Deflector Gasket 
+12. Air Deflector Gasket 
